@@ -24,6 +24,8 @@ README.md – Documentación del proyecto
 
 El gráfico generado muestra un crecimiento sostenido de la producción de soja en Argentina a partir de los 90s, con picos superiores a 60M de toneladas, reflejando su rol estructural en la balanza comercial del país.
 
+![Análisis de la Producción de Soja en Argentina (1941–2023)](https://github.com/user-attachments/assets/66b0547a-7b24-4133-989e-0bb4b4d08a3b)
+
 🛠️ Tecnologías utilizadas
 
 R + tidyverse + ggplot2
